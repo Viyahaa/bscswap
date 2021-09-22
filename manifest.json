@@ -1,6 +1,6 @@
 {
-  "short_name": "HSWAP",
-  "name": "HSWAP",
+  "short_name": "EMEVINEFINANCE",
+  "name": "EMEVINEFINANCE",
   "icons": [
     {
       "src": "./images/200x200_App_Icon.png",
@@ -11,6 +11,6 @@
   ],
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#ff007a",
+  "theme_color": "#27578e",
   "background_color": "#fff"
 }
